@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#3b82f6" />
+  <g fill="#ffffff" transform="translate(100, 100)">
+    <path d="M40,0 L160,0 C180,0 200,20 200,40 L200,160 C200,180 180,200 160,200 L40,200 C20,200 0,180 0,160 L0,40 C0,20 20,0 40,0 Z" />
+    <text x="100" y="120" font-family="Arial" font-size="60" text-anchor="middle" fill="#3b82f6">11</text>
+    <path d="M50,50 L50,150 L70,150 L70,50 L50,50 Z M130,50 L130,150 L150,150 L150,50 L130,50 Z" />
+  </g>
+</svg>
