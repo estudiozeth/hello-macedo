@@ -7,22 +7,22 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
 
 // Caminhos públicos das imagens SVG
-const fullProImg = '/images/consultor.png';
-const po11ntImg = '/images/consultor.png';
-const appConsultorImg = '/images/consultor.png';
-const vistoAppImg = '/images/consultor.png';
-const associadoAppImg = '/images/consultor.png';
-const kimPlusImg = '/images/consultor.png';
+const fullProImg = '/images/fullpro.png';
+const po11ntImg = '/images/po11nt.png';
+const appConsultorImg = '/images/fullpro.png';
+const vistoAppImg = '/images/fullpro.png';
+const associadoAppImg = '/images/fullpro.png';
+const kimPlusImg = '/images/fullpro.png';
 
 // Dados dos projetos reais do portfólio
 const projects = ref([
   {
     id: 1,
-    title: 'Fulpro',
+    title: 'Fullpro',
     category: 'Mobile',
     image: fullProImg,
     description: 'Aplicativo para o personal gerenciar seus treinos e aulas online',
-    url: 'https://thiagomacedo.notion.site/970876f9627a41c7bf0935463a5cac71?v=ce6c082635874570b22bcda25ae35231'
+    url: 'https://thiagomacedo.notion.site/Full-Pro-1a62b96711c08008a958d9653ad43851'
   },
   {
     id: 2,
@@ -30,7 +30,7 @@ const projects = ref([
     category: 'Mobile',
     image: po11ntImg,
     description: 'Aplicativo para modernizar e simplificar a vida dos árbitros de tênis de mesa.',
-    url: 'https://thiagomacedo.notion.site/970876f9627a41c7bf0935463a5cac71?v=ce6c082635874570b22bcda25ae35231'
+    url: 'https://thiagomacedo.notion.site/Po11nt-1a62b96711c08046a371d9c237b3b5f3'
   },
   {
     id: 3,
@@ -38,7 +38,7 @@ const projects = ref([
     category: 'Mobile',
     image: appConsultorImg,
     description: 'CRM de negociações e vendas de proteção veicular',
-    url: 'https://thiagomacedo.notion.site/970876f9627a41c7bf0935463a5cac71?v=ce6c082635874570b22bcda25ae35231'
+    url: 'https://thiagomacedo.notion.site/App-Consultor-1a62b96711c080f4bf54e95617c97bef'
   },
   {
     id: 4,
